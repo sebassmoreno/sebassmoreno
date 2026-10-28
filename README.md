@@ -5,7 +5,7 @@
 
 <div align="center">
 
-**🎓 Ingeniería Informática @ UCAB** &nbsp;|&nbsp; **📱 Apps móviles y web** &nbsp;|&nbsp; **🤖 Desarrollo asistido por IA**
+**🎓 Ingeniería Informática @ UCAB** &nbsp;|&nbsp; **🛡️ Rumbo a la ciberseguridad** &nbsp;|&nbsp; **💻 Base en desarrollo de software**
 
 <a href="https://www.linkedin.com/in/sebastian-moreno-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:sebasmoreno3908@gmail.com"><img src="https://img.shields.io/badge/Correo-2DD4BF?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="Correo"></a>
@@ -18,8 +18,8 @@
 
 <table>
   <tr>
-    <td width="50%">📱 Apps móviles con Flutter<br><br>🌐 Web con React, Next.js y PWA<br><br>⚙️ APIs con NestJS y GraphQL</td>
-    <td width="50%">🧪 Pruebas automatizadas desde el inicio<br><br>📝 Decisiones de diseño documentadas<br><br>🤖 Flujo de trabajo con Claude Code</td>
+    <td width="50%">🛡️ Aprender a proteger sistemas entendiendo cómo se construyen<br><br>⚙️ Backend con NestJS, GraphQL y PostgreSQL<br><br>📱 Aprendiendo Flutter con una app real</td>
+    <td width="50%">🧪 Pruebas automatizadas desde el inicio<br><br>📝 Decisiones de diseño documentadas<br><br>🤖 Automatización con Claude Code y n8n</td>
   </tr>
 </table>
 
@@ -30,23 +30,23 @@
 <table>
   <tr>
     <td><b>Lenguajes</b></td>
-    <td><img src="https://skillicons.dev/icons?i=ts,js,java,py,dart,html,css,bash" height="36" alt="TypeScript, JavaScript, Java, Python, Dart, HTML, CSS, Bash"><br><sub>también <code>SQL</code> · <code>PL/SQL</code></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=py,ts,cpp,java,js,html,css,bash" height="36" alt="Python, TypeScript, C++, Java, JavaScript, HTML, CSS, Bash"><br><sub>también <code>SQL</code></sub></td>
   </tr>
   <tr>
-    <td><b>Frontend y móvil</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,nextjs,astro,flutter" height="36" alt="React, Next.js, Astro, Flutter"><br><sub>también <code>Preact</code> · <code>PWA</code></sub></td>
+    <td><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,astro" height="36" alt="React, Next.js, Astro"><br><sub>también <code>Preact</code> · <code>PWA</code></sub></td>
   </tr>
   <tr>
     <td><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql" height="36" alt="Node.js, NestJS, Express, GraphQL"></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql" height="36" alt="Node.js, NestJS, Express, GraphQL"><br><sub>también <code>Axios</code></sub></td>
   </tr>
   <tr>
-    <td><b>IA</b></td>
-    <td><code>Claude Code</code> · <code>Claude API</code> · <code>Gemini API</code></td>
+    <td><b>IA y automatización</b></td>
+    <td><code>Claude Code</code> · <code>n8n</code> · <code>Claude API</code> · <code>Gemini API</code></td>
   </tr>
   <tr>
     <td><b>Datos</b></td>
-    <td><img src="https://skillicons.dev/icons?i=sqlite" height="36" alt="SQLite"><br><sub>también <code>Oracle</code> · <code>IndexedDB</code></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,supabase,sqlite" height="36" alt="PostgreSQL, Supabase, SQLite"><br><sub>también <code>Drizzle ORM</code> · <code>IndexedDB</code></sub></td>
   </tr>
   <tr>
     <td><b>Pruebas</b></td>
@@ -55,6 +55,10 @@
   <tr>
     <td><b>Herramientas</b></td>
     <td><img src="https://skillicons.dev/icons?i=git,github,vite,vercel,cloudflare" height="36" alt="Git, GitHub, Vite, Vercel, Cloudflare"><br><sub>también <code>ESLint</code> · <code>Prettier</code></sub></td>
+  </tr>
+  <tr>
+    <td><b>📚 Aprendiendo</b></td>
+    <td><img src="https://skillicons.dev/icons?i=flutter,dart" height="36" alt="Flutter, Dart"><br><sub>también <code>Oracle</code> · <code>PL/SQL</code> · ciberseguridad</sub></td>
   </tr>
 </table>
 

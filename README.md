@@ -3,6 +3,28 @@
   <img alt="Sebastián Moreno — Ingeniería Informática, UCAB" src="./assets/header-light.svg" width="100%">
 </picture>
 
+<div align="center">
+
+**🎓 Ingeniería Informática @ UCAB** &nbsp;|&nbsp; **📱 Apps móviles y web** &nbsp;|&nbsp; **🤖 Desarrollo asistido por IA**
+
+<a href="https://www.linkedin.com/in/sebastian-moreno-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:sebasmoreno3908@gmail.com"><img src="https://img.shields.io/badge/Correo-2DD4BF?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="Correo"></a>
+
+</div>
+
+<br>
+
+#### Enfoque
+
+<table>
+  <tr>
+    <td width="50%">📱 Apps móviles con Flutter<br><br>🌐 Web con React, Next.js y PWA<br><br>⚙️ APIs con NestJS y GraphQL</td>
+    <td width="50%">🧪 Pruebas automatizadas desde el inicio<br><br>📝 Decisiones de diseño documentadas<br><br>🤖 Flujo de trabajo con Claude Code</td>
+  </tr>
+</table>
+
+<br>
+
 #### Stack
 
 <table>
@@ -103,6 +125,6 @@
 
 <br>
 
-#### Contacto
-
-[sebasmoreno3908@gmail.com](mailto:sebasmoreno3908@gmail.com)
+<div align="center">
+<sub><i>«Cada decisión, con su porqué.»</i></sub>
+</div>

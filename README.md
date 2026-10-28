@@ -40,11 +40,14 @@
 
 #### Proyectos destacados
 
-**[Te Cambio](https://github.com/sebassmoreno/te-cambio)** — PWA para registrar compras y ventas de USD y saber a qué precio conviene vender.<br>
+**Mi Pana Académico** · 🚧 *en desarrollo* · 🔒 — App móvil para estudiantes de la UCAB que calcula notas, asistencia y horario, y funciona sin conexión. La meta es publicarla en la App Store.<br>
+<sub>`Flutter` · `Dart` · `SQLite` · iOS y Android</sub>
+
+**Te Cambio** · 🔒 · [ver demo ↗](https://te-cambio.pages.dev) — PWA para registrar compras y ventas de dólares y saber a qué precio conviene vender sin perder contra el costo promedio.<br>
 <sub>`TypeScript` · `Preact` · `Vite` · `IndexedDB` · `Vitest`</sub>
 
-**[Mi Pana Académico](https://github.com/sebassmoreno/mi-pana-academico)** · 🚧 *en desarrollo* — App móvil para estudiantes de la UCAB que calcula notas, asistencia y horario. La meta es publicarla en la App Store.<br>
-<sub>`Flutter` · `Dart` · `SQLite` · iOS y Android</sub>
+**Thinkdy** · 🔒 — App de estudio: subes un PDF, Claude lo organiza por temas y te hace exámenes con nota sobre 20, con repaso de tus errores.<br>
+<sub>`React` · `TypeScript` · `Claude API` · `Gemini API` · `IndexedDB`</sub>
 
 **[SmartFetch](https://github.com/sebassmoreno/smartfetch)** — Wrapper de `fetch` con timeout, reintentos con backoff e interceptores, sin dependencias.<br>
 <sub>`TypeScript` · `Jest` · patrones Strategy y Factory</sub>
@@ -52,8 +55,44 @@
 **[Task Manager GraphQL](https://github.com/sebassmoreno/task-manager-graphql)** — API GraphQL de gestión de tareas con programación orientada a aspectos.<br>
 <sub>`NestJS` · `GraphQL` · `TypeScript` · `Winston`</sub>
 
-**[Cotízate](https://github.com/Sebwebelopers/Cotizate_V1_code)** — App de cotizaciones con prototipo navegable.<br>
-<sub>`HTML` · `JavaScript` · `Python`</sub>
+<br>
+
+#### Otros proyectos
+
+<table>
+  <tr>
+    <td><b>Radar de Estacionamientos UCAB</b> 🔒</td>
+    <td>Web que muestra qué estacionamientos de la UCAB tienen puestos libres, con semáforo de ocupación. Proyecto en equipo.</td>
+    <td><sub><code>Next.js</code> · <code>React</code></sub></td>
+  </tr>
+  <tr>
+    <td><b>RutasVenezuela</b> 🔒</td>
+    <td>Base de datos relacional y app web para rutas turísticas y culturales de Venezuela. Proyecto en equipo.</td>
+    <td><sub><code>SQL</code> · <code>PL/SQL</code> · <code>Oracle</code></sub></td>
+  </tr>
+  <tr>
+    <td><b>La Casa de los Útiles</b> 🔒</td>
+    <td>Catálogo web para tiendas de equipos de cocina profesional, con lista de cotización que se envía por WhatsApp.</td>
+    <td><sub><code>Astro</code> · <code>TypeScript</code> · <code>Vitest</code></sub></td>
+  </tr>
+  <tr>
+    <td><b>Cotízate</b> 🔒</td>
+    <td>App de cotizaciones; hoy en prototipo navegable con el alcance del producto documentado.</td>
+    <td><sub><code>HTML</code> · <code>JavaScript</code> · <code>Python</code></sub></td>
+  </tr>
+  <tr>
+    <td><b>Flujo de Caja · Colegio Madison</b> 🔒</td>
+    <td>Diseño completo de una app para registrar ingresos y egresos de un colegio con tres sedes: 67 decisiones documentadas antes del código.</td>
+    <td><sub>diseño de software</sub></td>
+  </tr>
+  <tr>
+    <td><b>Organizador de archivos</b> 🔒</td>
+    <td>Herramienta de línea de comandos para macOS que ordena Descargas y Escritorio y guarda un índice de cada movimiento.</td>
+    <td><sub><code>Python</code> · <code>SQLite</code> · <code>pytest</code></sub></td>
+  </tr>
+</table>
+
+<sub>🔒 Código privado. Si quieres ver alguno, escríbeme y te doy acceso.</sub>
 
 <br>
 
